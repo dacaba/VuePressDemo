@@ -4,9 +4,9 @@ module.exports = {
     repo: 'https://github.com/TaoXuSheng/mt-blog', // 添加 github 链接
     themeConfig: {
         // 假定 GitHub。也可以是一个完整的 GitLab 网址
-        repo: 'dacaba/dacaba.github.io',
-        // 如果你的文档不在仓库的根部
-        docsDir: 'docs',
+        repo: 'dacaba/VuePressDemo',
+        // 如果你的文档不在仓库的根部,设置docsDir
+        docsDir: '',
         // 可选，默认为 master
         docsBranch: 'master',
         // 默认为 true，设置为 false 来禁用
